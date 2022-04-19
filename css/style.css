@@ -1,0 +1,51 @@
+/* fonts */
+h2{
+    font-size: 25px;
+    font-family: monospace;
+    font-style: bold;
+    color:indigo
+}
+/* h2:hover{
+    font-size: 16px;
+} */
+*{
+   /* background-color: lightblue; */
+}
+/* css box
+margin, padding, border, outline
+*/
+.abc{
+    background-color: rgb(172, 144, 238);
+    width:500px;
+    /* height: 400px; */
+    /* padding */
+    /* padding-top:15px;
+    padding-bottom: 30px;
+    padding-right: 12px;
+    padding-left: 13px; */
+    /* shorthand */
+    /* padding:15px 12px 30px 13px ; */
+    padding:20px;
+    /* border radius */
+    border-radius:7px ;
+    /* intro to border 
+    width, style, color
+    */
+    /* border-top:10px solid rgb(200, 23, 70); */
+    border:7px solid rgb(59, 2, 59);
+ margin-left:auto;
+ margin-right:auto;
+    
+}
+.princediv:hover{
+    background-color: lightsteelblue;
+}
+.titl{
+    border-bottom: 2px solid grey;
+    background-color:rebeccapurple;
+    padding:10px;
+}
+.titl h2{
+    color:white;
+    text-align:center;
+}

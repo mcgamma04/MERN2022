@@ -1,0 +1,18 @@
+/*
+CSS MEANS, CASCADING STYLE SHEET
+TYPES OF CSS
+1. INLINE CSS
+2. EMBEDDED CSS
+3. EXTERNAL CSS
+
+*/
+css sytax
+
+selector{
+    declaration property: value;
+}
+the selector could be
+1. any of HTML EMELEMNTS. h2,,p 
+2. id #
+3. class selector .
+curly brace
